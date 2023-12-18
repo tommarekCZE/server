@@ -12,6 +12,9 @@
       "name": "Example Link 3",
       "url": "https://www.example.com/link3"
     }
-    // Add more links as needed
-  ]
+  ],
+  "info": {
+    "version": "1.20.1",
+    "forge_link": "https://forge.example.com"
+  }
 }
